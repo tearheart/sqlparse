@@ -453,6 +453,7 @@ KEYWORDS = {
     'PROCEDURAL': tokens.Keyword,
     'PROCEDURE': tokens.Keyword,
     'PUBLIC': tokens.Keyword,
+    'PUT': tokens.Keyword,
 
     'RAISE': tokens.Keyword,
     'RAW': tokens.Keyword,
